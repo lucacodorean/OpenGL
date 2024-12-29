@@ -1,0 +1,31 @@
+﻿  main.cpp
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(143,3): warning C4808: case '65' is not a valid value for switch condition of type 'bool'
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(146,3): warning C4808: case '68' is not a valid value for switch condition of type 'bool'
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(128,3): warning C4808: case '69' is not a valid value for switch condition of type 'bool'
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(131,3): warning C4808: case '74' is not a valid value for switch condition of type 'bool'
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(134,3): warning C4808: case '76' is not a valid value for switch condition of type 'bool'
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(125,3): warning C4808: case '81' is not a valid value for switch condition of type 'bool'
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(140,3): warning C4808: case '83' is not a valid value for switch condition of type 'bool'
+E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\main.cpp(137,3): warning C4808: case '87' is not a valid value for switch condition of type 'bool'
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+  test2.vcxproj -> E:\UNIVERSITY\AN III\prelucreare_grafica\Laboratoare\LAB 9\x64\Debug\test2.exe
